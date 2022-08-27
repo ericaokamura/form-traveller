@@ -14,8 +14,16 @@ body {
     padding: 10px 0 0 0;
 }
 
+.nome input {
+    width: 400px;
+}
+
 .horario {
     padding: 10px 0 0 0;
+}
+
+.horario input {
+    width: 400px;
 }
 
 .endereco {
@@ -28,5 +36,19 @@ body {
 
 .botao {
     margin: 10px 0 0 10px;
+    background-color: #F2A0AF;
 }
 
+select {
+    appearance: none;
+    background-color: #F2ECE4;
+}
+
+select option {
+    appearance: none;
+    background-color: #F2ECE4;
+}
+
+input {
+    background-color: #F2A0AF;
+}
