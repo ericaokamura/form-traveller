@@ -1,0 +1,32 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #88BFAB;
+}
+
+.dados {
+
+}
+
+.nome {
+    padding: 10px 0 0 0;
+}
+
+.horario {
+    padding: 10px 0 0 0;
+}
+
+.endereco {
+    padding: 10px 0 0 0;
+}
+
+.ingresso {
+    padding: 10px 0 0 0;
+}
+
+.botao {
+    margin: 10px 0 0 10px;
+}
+
